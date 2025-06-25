@@ -24,6 +24,25 @@ The sentiment_distribution.ipynb contains different Python libraries used to mak
 -Scikit Learn
 -NLTK (Natural Language Toolkit)
 
+# Project Status
+
+On my part, I guess I'll comeback to this project in the future but for now I guess I could declare this completed.
+
+# Contribution
+
+Anything that could be of help to me, I'm willing to learn either from positive reviews or any kind of criticism that could support my improvement through the whole process.
+
+# License
+
+For academic purpose
+
+# Credits 
+
+I have mentioned at the starting of this doc where I got the dataset and included the link. I'm forever thankful to Kashish Parmar for the dataset.
+
+
+Well, Thanks.
+
 
 
 
